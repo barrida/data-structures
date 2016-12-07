@@ -11,7 +11,7 @@ import java.util.Map;
 import algorthims.Graph;
 
 /**
- * Class that have functionalities to solve the Problem One: Trains 
+ * Class that have functionalities to solve the graph problems 
  * @author suleyman.yildirim
  * 
  */

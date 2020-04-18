@@ -1,4 +1,4 @@
-# data-structures
+# Graph traversal algorithms
 
 Implementation of graph traversal algorithms with Java 7.
 
